@@ -7,3 +7,8 @@
 body {
   background: white;
 }
+
+a.active {
+  background: black;
+  color: white;
+}
